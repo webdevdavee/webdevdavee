@@ -1,6 +1,6 @@
-## Hey there, I am David 👋
+# Hey there, I am David 👋
 
-# Frontend Engineer 👋
+## Frontend Engineer 👋
 
 - 🌱 I’m learning Solidity
 - 📫 Contact me at: anayookpala26@gmail.com
