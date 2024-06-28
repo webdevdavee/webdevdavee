@@ -1,6 +1,6 @@
 # Hey there, I am David 👋
 
-## Frontend Engineer 👋
+## Frontend Engineer
 
 - 🌱 I’m learning Solidity
 - ⚡ I support Arsenal Football Club ⚽
