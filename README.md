@@ -1,18 +1,18 @@
-## 👋 Hello, David Okpala here!
+## 👋 ʜᴇʟʟᴏ, ᴅᴀᴠɪᴅ ᴏᴋᴘᴀʟᴀ ʜᴇʀᴇ!
 
-### 💻 Frontend Engineer | JavaScript & TypeScript Enthusiast
+### 💻 ꜰʀᴏɴᴛᴇɴᴅ ᴇɴɢɪɴᴇᴇʀ | ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ & ᴛʏᴘᴇꜱᴄʀɪᴘᴛ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ
 
-Welcome to my GitHub profile! I am enthusiastic about solving problems for businesses through software programming.
+ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ! ɪ ᴀᴍ ᴇɴᴛʜᴜꜱɪᴀꜱᴛɪᴄ ᴀʙᴏᴜᴛ ꜱᴏʟᴠɪɴɢ ᴘʀᴏʙʟᴇᴍꜱ ꜰᴏʀ ʙᴜꜱɪɴᴇꜱꜱᴇꜱ ᴛʜʀᴏᴜɢʜ ꜱᴏꜰᴛᴡᴀʀᴇ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ.
 
-### 🚀 About Me
+### 🚀 ᴀʙᴏᴜᴛ ᴍᴇ
 
-- 🔭 I specialize in building web applications using JavaScript and TypeScript
-- 🌱 Currently expanding my skills by learning Solidity for blockchain development
-- 🎯 Committed to writing clean, maintainable, and scalable code
-- 🤝 Always eager to collaborate on innovative projects
+- 🔭 ɪ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ʙᴜɪʟᴅɪɴɢ ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ ᴜꜱɪɴɢ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴀɴᴅ ᴛʏᴘᴇꜱᴄʀɪᴘᴛ
+- 🌱 ᴄᴜʀʀᴇɴᴛʟʏ ᴇxᴘᴀɴᴅɪɴɢ ᴍʏ ꜱᴋɪʟʟꜱ ʙʏ ʟᴇᴀʀɴɪɴɢ ꜱᴏʟɪᴅɪᴛʏ ꜰᴏʀ ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
+- 🎯 ᴄᴏᴍᴍɪᴛᴛᴇᴅ ᴛᴏ ᴡʀɪᴛɪɴɢ ᴄʟᴇᴀɴ, ᴍᴀɪɴᴛᴀɪɴᴀʙʟᴇ, ᴀɴᴅ ꜱᴄᴀʟᴀʙʟᴇ ᴄᴏᴅᴇ
+- 🤝 ᴀʟᴡᴀʏꜱ ᴇᴀɢᴇʀ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴘʀᴏᴊᴇᴄᴛꜱ
 
-### 📫 Let's Connect
+### 📫 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ
 
-- 📧 Email: anayookpala26@gmail.com
-- 🐦 Twitter: https://x.com/webdevdavee
-- 💼 LinkedIn: https://www.linkedin.com/in/david0852/
+- 📧 ᴇᴍᴀɪʟ: ᴀɴᴀʏᴏᴏᴋᴘᴀʟᴀ26@ɢᴍᴀɪʟ.ᴄᴏᴍ
+- 🐦 ᴛᴡɪᴛᴛᴇʀ: ʜᴛᴛᴘꜱ://x.ᴄᴏᴍ/ᴡᴇʙᴅᴇᴠᴅᴀᴠᴇᴇ
+- 💼 ʟɪɴᴋᴇᴅɪɴ: ʜᴛᴛᴘꜱ://ᴡᴡᴡ.ʟɪɴᴋᴇᴅɪɴ.ᴄᴏᴍ/ɪɴ/ᴅᴀᴠɪᴅ0852/
