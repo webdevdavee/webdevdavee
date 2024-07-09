@@ -1,4 +1,4 @@
-# 👋 Hello, I'm David Okpala
+### 👋 Hello, I'm David Okpala
 
 ## 💻 Frontend Engineer | JavaScript & TypeScript Enthusiast
 
