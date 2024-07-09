@@ -1,6 +1,6 @@
-### 👋 Hello, I'm David Okpala
+## 👋 Hello, David Okpala here!
 
-## 💻 Frontend Engineer | JavaScript & TypeScript Enthusiast
+### 💻 Frontend Engineer | JavaScript & TypeScript Enthusiast
 
 Welcome to my GitHub profile! I am enthusiastic about solving problems for businesses through software programming.
 
